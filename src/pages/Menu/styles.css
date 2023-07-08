@@ -1,0 +1,32 @@
+
+
+.dark-theme {
+    background-color: #1f1f1f;
+    color: #fff;
+  }
+  
+  .light-theme {
+    background-color: #f5f5f5;
+    color: #000;
+  }
+  
+  .theme-switcher {
+    display: flex;
+    align-items: center;
+    margin-bottom: 16px;
+  }
+  
+  .theme-switcher-label {
+    margin-right: 8px;
+  }
+
+  .dark-menu {
+    background-color: #1f1f1f;
+    color: #fff;
+  }
+  
+  .light-menu {
+    background-color: #f5f5f5;
+    color: #000;
+  }
+  
